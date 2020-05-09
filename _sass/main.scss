@@ -1,14 +1,18 @@
 @charset "utf-8";
 
-@import
-  "partials/fonts",
-  "partials/variables",
-  "partials/mixins",
-  "partials/_mq.scss",
-  "partials/normalize",
-  "partials/utilities",
-  "partials/typography",
-  "partials/body",
-  "partials/navbar",
-  "partials/footer"
+@import "partials/fonts",
+"partials/variables",
+"partials/mixins",
+"partials/_mq.scss",
+"partials/normalize",
+"partials/utilities",
+"partials/typography",
+"partials/body",
+"partials/navbar",
+"partials/footer"
 ;
+
+nav,
+main {
+  background: $main-color;
+}
