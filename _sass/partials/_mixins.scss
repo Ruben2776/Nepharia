@@ -17,3 +17,9 @@
   -ms-user-select: $argument;
   user-select: $argument;
 }
+
+
+@mixin border-style {
+  border: 1px solid $btn-bg;
+  border-radius: 3px;
+}

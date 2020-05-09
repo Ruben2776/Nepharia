@@ -15,5 +15,6 @@
 
 nav,
 main {
+  @include border-style;
   background: $main-color;
 }
