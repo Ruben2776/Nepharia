@@ -6,14 +6,14 @@ nav.main-nav {
     width: $nav-width;
     height: 100%;
 
-    padding: 1rem 2rem;
-
-    @include mq($until: tablet) {
-        padding: .5rem 1rem;
-    }
-
     ul {
         li {
+            padding: 1rem 2rem;
+
+            @include mq($until: tablet) {
+                padding: .5rem 1rem;
+            }
+
             &:hover {
                 background-color: lighten($color: $bg-color, $amount: 30);
             }
