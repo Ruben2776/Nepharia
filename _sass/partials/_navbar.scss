@@ -1,6 +1,15 @@
 nav {
+    background: $main-color;
+}
+
+nav.main-nav {
     position: fixed;
     top: 0;
     left: 0;
-    background: $main-color;
+
+    width: 300rem;
+
+    @include mq($until: tablet) {
+        color: blue;
+    }
 }
