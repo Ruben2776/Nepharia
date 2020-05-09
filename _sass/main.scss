@@ -14,7 +14,9 @@
 ;
 
 nav,
-main {
+main,
+footer {
   @include border-style;
+  border-top: 0;
   background: $main-color;
 }
