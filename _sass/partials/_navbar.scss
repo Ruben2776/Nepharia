@@ -31,7 +31,7 @@ nav.main-nav {
             }
 
             &:hover {
-                background-color: lighten($color: $bg-color, $amount: 30);
+                background-color: lighten($color: $bg-color, $amount: 5);
             }
         }
     }
