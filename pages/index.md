@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: >
+intro_paragraph: |-
 # Addere undis
 
 ## Nisi esse durus micant mirabere auget

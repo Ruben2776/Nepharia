@@ -3,7 +3,7 @@ layout: blog
 title: The Blog
 permalink: /blog
 section: blog
-intro_paragraph: >
+intro_paragraph: |-
 # Pendet laceraret adstat
 
 ## Cerva praestiteris malo est saltatibus tenet digna
