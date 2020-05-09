@@ -4,6 +4,7 @@ nav.main-nav {
     left: 0;
 
     width: 20rem;
+    height: 100vh;
 
     @include mq($until: tablet) {
         color: blue;
