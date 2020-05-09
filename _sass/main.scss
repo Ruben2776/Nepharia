@@ -12,18 +12,3 @@
 "partials/content",
 "partials/footer"
 ;
-
-nav,
-main {
-  @include border-style;
-  border-top: 0;
-  
-  background: $main-color;
-}
-
-footer {
-  @include border-style;
-  border-bottom: 0;
-
-  background: $main-color;
-}
