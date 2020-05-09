@@ -1,9 +1,5 @@
 main,
 footer {
-    @include border-style;
-    
-    background-color: $bg-color;
-
     width: 90rem;
     margin: 0 auto;
 }

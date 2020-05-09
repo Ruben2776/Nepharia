@@ -9,6 +9,14 @@
 "partials/typography",
 "partials/body",
 "partials/navbar",
-"partials/content",
-"partials/footer"
+"partials/footer",
+"sizing"
 ;
+
+nav,
+main {
+  @include border-style;
+  border-top: 0;
+
+  background: $main-color;
+}
