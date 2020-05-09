@@ -12,9 +12,14 @@ nav.main-nav {
         padding: .5rem 1rem;
     }
 
+    li {
+        :hover {
+            background-color: lighten($color: $bg-color, $amount: 30);
+        }
+    }
+
     a {
         border-bottom: none;
-
         color: $text-color;
     }
 }
