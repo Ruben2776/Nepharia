@@ -14,14 +14,16 @@
 ;
 
 nav,
-main,
-footer {
+main {
   @include border-style;
   border-top: 0;
+  
   background: $main-color;
 }
 
 footer {
-  border-top: inherit;
+  @include border-style;
   border-bottom: 0;
+
+  background: $main-color;
 }
