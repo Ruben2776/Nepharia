@@ -3,55 +3,16 @@ layout: contact
 title: Contact
 permalink: /contact
 section: contact
-intro_paragraph: |-
-
-# Misit satelles Dulichium dabitur
-
-## Plurima corpora Astraea numinis
-
-Lorem markdownum undas. Tu bicolor manant: satis **conplectens** illa
-contractosque languore seque, soluti.
-
-1. Tectis laude
-2. Vestra nec nomen rediit pugna
-3. Dextra vetus
-4. Orithyiae posset
-
-Vultu verterit materia ramos suoque perituraque cornu et conatibus. Mihi arborei
-maiora, muneris sorori, spretis traxit.
-
-- Pro petit
-- Tiberinaque nebulae morti tuta fungi
-- Nunc via morientibus summa sedet scelerataque pectore
-
-## Dea curvae ora meo qua totumque est
-
-*Ira ait moriens* testis: haud, arma tamen visae planissima iuste armandique
-hortos, tum habet perstat stolidas. Collectum marem. Quodque is favore tenui
-rura Laconide fugit olivae quid horrentia rector es alas graciles et Pelias
-iamdudum et turba hinc. Haeret ille monimenta tua; ait habet modulata *audacem
-habuit* intremuit currum iam sola; tethys meos dirae; dura. Pariente Idalien
-volatu saxea contemptor humo stantis convicia unice quod Neptunus inritat; ama
-tori ora.
-
-> Cephenum habet, cuti cibo *remis in copia*, herbis est de deo. Glaciali ecquid
-> partim, erit turbata freta ictu, res cum: potentia honorant inritare tamen
-> subiectis nostrae. Et penetrabit cuspide carebat Inachidas illi quietem,
-> vulgata sedes placido totumque licebit, in **animalia**, sinus mea remis. Et
-> quae en quae litora quae filia aures; mea dixit, undas inamoenaque priori
-> meminisse auro iacens. Ramos mandentemque *precor* pulchraque quam metuendus
-> inpedienda aether, arator faciet fuit.
-
-Volucres tot non cunctantem durum; tu merui carendum te sed officio illam,
-dissuaserat metu: tingui. Forma unda cornu mundi, insistere facundis dextra et
-mihi cum; est versat, una.
-
-> Matri prohibes potest, ac amas. Nam imagine undas deorum percutit.
-
-Est cumque solo, petis. Non medullis Gradive viribus quod, curvo lege, et
-cetera, ministro mille lupo; vestes. Haerentia terga fera fine Heliadum hactenus
-ille mihi, sua primum urbe evolvit reliquerat Idaeumque virga, praeponere
-absentem rigidi!
+intro_paragraph: |
+  This is an example of a standard Jekyll page. You can edit it with Netlify
+  CMS, accessible at `/admin/index.html` or by editing `pages/about.md` in a text editor.
 ---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**Send us a message**
+### A heading
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+#### Another heading
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
