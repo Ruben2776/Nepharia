@@ -20,3 +20,8 @@ footer {
   border-top: 0;
   background: $main-color;
 }
+
+footer {
+  border-top: inherit;
+  border-bottom: 0;
+}
