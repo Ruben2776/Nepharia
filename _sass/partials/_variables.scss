@@ -2,8 +2,8 @@
 $text-color: white;
 $text-color-negative: rgb(147, 152, 160);
 $brand-color: rgb(29,37,52);
-$link-color: rgb(0,114,154);
-$link-hover-color: #4faed0;
+$link-color: #ba4545;
+$link-hover-color: lighten($color: $link-color, $amount: 20);
 $grey-bg-color: #313131;
 $bg-color: rgb(24, 26, 29);
 $main-color: #242629;

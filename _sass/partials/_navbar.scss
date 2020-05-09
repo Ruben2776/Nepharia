@@ -7,11 +7,13 @@ nav.main-nav {
     height: 100%;
 
     ul {
+        padding: 1rem 0;
+        
         li {
-            padding: 1rem 2rem;
+            padding: .3rem 2rem;
 
             @include mq($until: tablet) {
-                padding: .5rem 1rem;
+                padding: .2rem 1rem;
             }
 
             &:hover {
