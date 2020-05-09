@@ -13,7 +13,7 @@ nav.main-nav {
     }
 
     li {
-        :hover {
+        &:hover {
             background-color: lighten($color: $bg-color, $amount: 30);
         }
     }
