@@ -6,7 +6,15 @@ nav.main-nav {
     width: $nav-width;
     height: 100%;
 
+    padding: 1rem 2rem;
+
+    color: $text-color;
+
     @include mq($until: tablet) {
-        color: blue;
+        padding: .5rem 1rem;
+    }
+
+    a {
+        text-decoration: none;
     }
 }
