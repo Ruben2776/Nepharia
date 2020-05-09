@@ -1,12 +1,26 @@
 $padding-full: 2rem;
 $padding-tablet: 1rem;
 
+nav {
+    svg {
+        width: 1.5rem;
+        height: auto;
+        fill: $text-color;
+        position: relative;
+        top: 0.2rem;
+    }
+}
+
 .logo.title {
     font-weight: $bold-font-weight;
     padding-left: $padding-full;
 
     @include mq($until: tablet) {
         padding-left: $padding-tablet;
+    }
+
+    svg {
+        fill: $link-color;
     }
 }
 
